@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">smartITN</string>
+    <string name="evaluer_cours">Évaluer le cours</string>
+    <string name="soumettre">Soumettre</string>
+    <string name="erreur_chargement">Erreur de chargement</string>
+    <string name="reseau">Réseau : %s</string>
+    <string name="succes_evaluation">Évaluation envoyée avec succès!</string>
+</resources>
